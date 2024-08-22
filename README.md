@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="left">Olá! 👋 Seja bem-vindo!</h1>
 
-<!--
-**eurobsongaspar/eurobsongaspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Aqui você verá um pouco sobre minha rotina de estudos, projetos e indicações de conteúdos relevantes, bem como todo conhecimento que eu for adquirindo com o tempo.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Um pouco Sobre mim</h2>
+
+###
+
+<p align="left">Eu sou um cara de 36 anos, graduado em Web Design, Fotógrafo mas que infelizmente se perdeu no tempo. Há 10 anos atrás, quando eu já atuava na área como Web Designer, resolvi abrir mão de tudo para iniciar um projeto na área de fotografia. ERRO-01 <br><br>Poucos anos depois iniciou-se uma crise no país que atingiu me atingiu em cheio! Minha parceira de negócio decidiu parar, mas eu resolvi continuar tentando, mesmo que sozinho. ERRO-02 <br><br>Muita coisa aconteceu, mas entre uma tentativa e outra, lá se foram 10 anos. 🤦🏽<br><br>Mas como pode ver, estou me empenhando para recuperar o tempo perdido, quero o vou retornar ao mercado como Desenvolvedor Front-End e vou compartilhar tudo isso aqui. Vamos nessa! 🤓</p>
+
+###
+
+<h2 align="left">Estou estudando</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/eurobsongaspar/eurobsongaspar/output/snake.svg" alt="Snake animation" />
+
+###
