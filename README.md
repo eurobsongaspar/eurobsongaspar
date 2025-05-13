@@ -1,33 +1,28 @@
-<h1 align="left">Olá! 👋 Seja bem-vindo!</h1>
+# Robson Gaspar
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-<p align="left">Aqui você verá um pouco sobre minha rotina de estudos, projetos e indicações de conteúdos relevantes, bem como todo conhecimento que eu for adquirindo com o tempo.</p>
+---
 
-###
+Olá! Sou o Robson — Web Designer de formação e Desenvolvedor Front-End em constante evolução.
 
-<h2 align="left">Um pouco Sobre mim</h2>
+Depois de quase 10 anos longe do código, decidi retomar minha jornada com mais força, foco e propósito. Hoje estou construindo meu portfólio com HTML, CSS e JavaScript, aprimorando habilidades, praticando projetos reais e me reconectando com o que mais amo: criar experiências digitais.
 
-###
+## Projetos em andamento:
 
-<p align="left">Eu sou um cara de 36 anos, graduado em Web Design, Fotógrafo mas que infelizmente se perdeu no tempo. Há 10 anos atrás, quando eu já atuava na área como Web Designer, resolvi abrir mão de tudo para iniciar um projeto na área de fotografia. ERRO-01 <br><br>Poucos anos depois iniciou-se uma crise no país que me atingiu em cheio. Minha parceira de negócio decidiu parar, mas eu continuei tentando, mesmo que sozinho. ERRO-02 <br><br>Muita coisa aconteceu, mas entre uma tentativa e outra, lá se foram 10 anos. 🤦🏽<br><br>Mas como pode ver, estou me empenhando para recuperar o tempo perdido, quero o vou retornar ao mercado como Desenvolvedor Front-End e vou compartilhar tudo isso aqui. <br><br>Vamos nessa! 🤓</p>
+- [Portfólio Pessoal](https://eurobsongaspar.github.io/portfolio-v1/) — projeto atual, onde estou praticando e evoluindo em público.
 
-###
+## Sobre mim:
 
-<h2 align="left">Estou estudando</h2>
+Comecei com web lá em 2005, criando sites no FrontPage e no saudoso Dreamweaver. Passei por Fireworks, Photoshop e muito código feito na unha. Trabalhei em empresas como a Unimed Ferj, onde fui de estagiário a analista pleno, desenvolvendo hotsites, boletins, e-mails marketing e muito mais.
 
-###
+Hoje, estou de volta — com fome de aprendizado, de comunidade e de novos desafios. Bora codar?
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+---
 
-###
+**Vamos nos conectar?**  
+[LinkedIn](https://www.linkedin.com/in/eurobsongaspar) • [GitHub](https://github.com/eurobsongaspar) • [Email](mailto:eurobsongaspar@gmail.com)
